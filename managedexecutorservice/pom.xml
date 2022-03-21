@@ -48,7 +48,7 @@
         <!-- Define the version of the JBoss BOMs we want to import to specify 
             tested stacks. -->
         <version.jboss.bom>8.2.1.Final</version.jboss.bom>
-        <version.resteasy>3.0.10.Final</version.resteasy>
+        <version.resteasy>4.6.1.Final</version.resteasy>
 
         <!-- other plugin versions -->
         <version.surefire.plugin>2.16</version.surefire.plugin>
